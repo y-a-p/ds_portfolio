@@ -1,6 +1,6 @@
 # Исследование рынка российского кинопроката
 
-[ipnb](p4_portfolio.ipynb)
+[ipynb](p4_portfolio.ipynb)
 
 ## Описание проекта
 
