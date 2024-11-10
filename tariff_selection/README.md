@@ -1,6 +1,6 @@
 # Классификаиция клиентов телеком компании
 
-[ipnb](p6_portfolio.ipynb)
+[ipynb](p6_portfolio.ipynb)
 
 ## Описание проекта
 
